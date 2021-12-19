@@ -1,0 +1,33 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px white;
+    background-color: rgb(8, 247, 235);
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.note{
+    font-size: 15px;
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(4, 235, 252);
+    line-height: 3;
+    text-align: center;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
